@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885239069832",
+    "project_id": "pushdeneme1",
+    "storage_bucket": "pushdeneme1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885239069832:android:05e78e208e54f8acba733d",
+        "android_client_info": {
+          "package_name": "com.pushdeneme1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885239069832-pbpvh8gu419d3v7vejbohf2pijtftqmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8VDaD14nTTawOPtjRBNwEmxD6HQSscg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885239069832-pbpvh8gu419d3v7vejbohf2pijtftqmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
